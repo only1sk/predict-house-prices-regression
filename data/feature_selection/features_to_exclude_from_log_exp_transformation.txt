@@ -1,0 +1,12 @@
+[
+"OverallCond",
+"YearBuilt",
+"YearRemodAdd",
+"GarageYrBlt",
+"BsmtUnfSF",
+"TotalBsmtSF",
+"2ndFlrSF",
+"GarageArea",
+"WoodDeckSF",
+"YrSold",
+]

@@ -1,0 +1,7 @@
+[
+"BsmtUnfSF",
+"TotalBsmtSF",
+"2ndFlrSF",
+"GarageArea",
+"WoodDeckSF",
+]
